@@ -307,7 +307,6 @@ section {
 .choices li:last-child {
 	margin-bottom: 0
 }
-
 .choices .correct {
 	background: #008733;
 	border-color: #006124;
@@ -329,8 +328,7 @@ section {
 }
 
 .choices .wrong {
-	background: #e34241;
-	border-color: #be0101;
+	background: #e34241;	border-color: #be0101;
 	color: #fff
 }
 
@@ -353,7 +351,7 @@ section {
 }
 
 .endpage {
-	background-image:url(../images/endpage_bg.png);
+	background-image:url(../images/endpage_bg.jpg);
 	background-size: 100% auto
 }
 
